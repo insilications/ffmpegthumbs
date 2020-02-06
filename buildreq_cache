@@ -1,8 +1,7 @@
-19.12.1
+19.12.2
 pkgconfig(libavcodec)
 pkgconfig(libavdevice)
 pkgconfig(libavfilter)
 pkgconfig(libavformat)
 pkgconfig(libavutil)
-pkgconfig(libpostproc)
 pkgconfig(libswscale)
