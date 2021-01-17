@@ -12,3 +12,4 @@ libavutil.so.56
 libc.so.6
 libstdc++.so.6
 libswscale.so.5
+libtag.so.1

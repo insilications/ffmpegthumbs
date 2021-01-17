@@ -1,5 +1,8 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
+#gcc9
+#gcc9-dev
+#gcc9-libs-math
 acl
 acl-dev
 acl-staticdev
@@ -43,9 +46,6 @@ freetype-staticdev
 fribidi-dev
 fribidi-staticdev
 gcc
-gcc9
-gcc9-dev
-gcc9-libs-math
 gcc-dev
 gcc-libs-math
 glib
@@ -333,6 +333,7 @@ SVT-HEVC-dev
 SVT-HEVC-staticdev
 systemd
 systemd-dev
+taglib-dev
 texinfo
 uchardet
 uchardet-dev

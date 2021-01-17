@@ -120,12 +120,11 @@ nettle
 ogg
 openssl
 opus
-p11-kit-1
 pciaccess
 pixman-1
 presentproto
-python-3.8
-python-3.8-embed
+python-3.9
+python-3.9-embed
 readline
 rubberband
 sdl2
